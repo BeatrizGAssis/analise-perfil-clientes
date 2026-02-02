@@ -1,8 +1,46 @@
-# Consultas SQL
+# Consultas SQL – Análise de Clientes
 
-Este diretório contém as consultas SQL utilizadas no projeto de análise do perfil de clientes.
+Esta pasta contém todas as consultas SQL desenvolvidas para o projeto *Análise do Perfil e Comportamento de Clientes*.
 
-As queries estão organizadas por tema:
-- Visão Geral
-- Perfil Financeiro
-- Comportamento dos Clientes
+As queries foram escritas em *PostgreSQL* e organizadas por tema, com o objetivo de explorar o perfil dos clientes, sua situação financeira e seu comportamento de navegação e compra.
+
+
+
+## Estrutura das consultas
+
+### 01_visao_geral.sql
+Consultas voltadas para entender o panorama geral da base de clientes, incluindo:
+- Quantidade total de clientes
+- Estados com maior número de clientes
+- Status profissional mais frequente
+- Distribuição geográfica dos clientes
+
+---
+
+### 02_perfil_financeiro.sql
+Análises relacionadas à renda e score dos clientes, como:
+- Renda média por estado
+- Renda média por região
+- Clientes acima de 3 salários mínimos
+- Score médio por estado
+- Percentual de clientes com score acima da média geral
+
+---
+
+### 03_comportamento.sql
+Consultas focadas no comportamento dos clientes no funil de vendas:
+- Clientes que visitaram o site
+- Clientes que realizaram compras
+- Perfil dos clientes que mais convertem (estado e status profissional)
+
+---
+
+## Tecnologias utilizadas
+- PostgreSQL
+- SQL (SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, funções de agregação)
+
+---
+
+## Observações
+- As consultas utilizam dados fictícios para fins de estudo.
+- Este conjunto de queries serve como base para a criação de dashboards no Power BI.
