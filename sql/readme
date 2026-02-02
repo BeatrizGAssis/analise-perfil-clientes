@@ -6,7 +6,7 @@ As queries foram escritas em *PostgreSQL* e organizadas por tema, com o objetivo
 
 
 
-## Estrutura das consultas
+##Estrutura das consultas
 
 ### 01_visao_geral.sql
 Consultas voltadas para entender o panorama geral da base de clientes, incluindo:
@@ -17,7 +17,7 @@ Consultas voltadas para entender o panorama geral da base de clientes, incluindo
 
 ---
 
-### 02_perfil_financeiro.sql
+###02_perfil_financeiro.sql
 Análises relacionadas à renda e score dos clientes, como:
 - Renda média por estado
 - Renda média por região
@@ -27,7 +27,7 @@ Análises relacionadas à renda e score dos clientes, como:
 
 ---
 
-### 03_comportamento.sql
+###03_comportamento.sql
 Consultas focadas no comportamento dos clientes no funil de vendas:
 - Clientes que visitaram o site
 - Clientes que realizaram compras
@@ -41,6 +41,6 @@ Consultas focadas no comportamento dos clientes no funil de vendas:
 
 ---
 
-## Observações
+##Observações
 - As consultas utilizam dados fictícios para fins de estudo.
 - Este conjunto de queries serve como base para a criação de dashboards no Power BI.
