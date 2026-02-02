@@ -35,7 +35,7 @@ Consultas focadas no comportamento dos clientes no funil de vendas:
 
 ---
 
-##    Tecnologias utilizadas
+##Tecnologias utilizadas
 - PostgreSQL
 - SQL (SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, funções de agregação)
 
