@@ -47,6 +47,11 @@ No Power BI, os dados foram conectados ao banco e tratados para criação de ind
 
 O arquivo do Power BI está disponível na pasta `/powerbi`.
 
+## Dashboard Visão Geral 
+
+<img width="876" height="492" alt="image" src="https://github.com/user-attachments/assets/6c48feb9-2ef4-4090-af54-8c69f21f2d24" />
+
+
 ---
 ## 📊 Principais Insights do Projeto
 
