@@ -5,6 +5,7 @@ Este dashboard foi desenvolvido no **Power BI** com o objetivo de visualizar e e
 
 A proposta é transformar as informações do banco de dados PostgreSQL em **indicadores visuais claros**, facilitando a análise do perfil dos clientes, aspectos financeiros e padrões de comportamento.
 
+<img width="876" height="492" alt="image" src="https://github.com/user-attachments/assets/04396494-f53d-4901-910e-c0f34a96eff9" />
 
 ---
 
